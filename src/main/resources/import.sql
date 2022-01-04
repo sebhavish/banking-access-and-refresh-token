@@ -1,0 +1,1 @@
+INSERT INTO bank_users(mobile_number,name,password,role) VALUES('9988776655','bhavish','$2a$10$IKucppFLNWnsxVjU5YDroOv9/Zcubcgr0PlYd2rgxqPNxUslnrRIq','ROLE_ADMIN');
